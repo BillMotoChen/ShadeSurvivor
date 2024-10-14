@@ -1,0 +1,46 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Asset meta data should only be shared within the Assets folder.
+# Meta files outside of this folder can cause issues.
+[Aa]ssets/**/*.meta
+
+# Uncomment if needed: Auto-generated VS/VSCode project files
+# *.csproj
+# *.unityproj
+# *.sln
+# *.suo
+# *.tmp
+# *.user
+# *.userprefs
+# *.pidb
+# *.booproj
+# *.svd
+# *.pdb
+
+# Mono auto generated files
+[Mm]ono[Cc]ache/
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.unitypackage
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# Uncomment if needed: OSX metadata files
+# .DS_Store
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore other platform-specific folders

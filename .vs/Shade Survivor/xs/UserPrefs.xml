@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{857DEA83-A206-CEC5-9C73-497359E3082D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Controller/HeartSpawnController.cs">
+    <Files>
+      <File FileName="Assets/Script/Controller/BallController.cs" Line="24" Column="42" />
+      <File FileName="Assets/Script/Controller/SpawnController.cs" Line="61" Column="1" />
+      <File FileName="Assets/Script/UI/GameStatus.cs" Line="30" Column="79" />
+      <File FileName="Assets/Script/Controller/MarbleController.cs" Line="22" Column="42" />
+      <File FileName="Assets/Script/UI/GameCanvasButtonController.cs" Line="30" Column="56" />
+      <File FileName="Assets/Script/UI/Transition.cs" Line="11" Column="25" />
+      <File FileName="Assets/Script/Controller/HeartSpawnController.cs" Line="6" Column="2" />
+      <File FileName="Assets/Script/Controller/IntroductionController.cs" Line="14" Column="1" />
+      <File FileName="Assets/Script/SaveScript.cs" Line="72" Column="13" />
+      <File FileName="Assets/Script/UI/MainGameUI.cs" Line="27" Column="1" />
+      <File FileName="Assets/Script/Ads/UnityAdsManager.cs" Line="32" Column="1" />
+      <File FileName="Assets/Script/UI/MainMenuUI.cs" Line="29" Column="56" />
+      <File FileName="Assets/Script/Ads/AppUsageTimer.cs" Line="7" Column="1" />
+      <File FileName="Assets/Script/Ads/InternetCheck.cs" Line="45" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="737d9f26-00a9-4d2d-8205-8643a97388e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
